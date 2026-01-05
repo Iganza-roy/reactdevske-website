@@ -8,7 +8,6 @@ const Footer = () => {
       className="py-6 bg-[#03045e] border-t-[2px] border-[#c0c0d6]"
     >
       <div className="flex flex-col justify-center gap-9">
-        {/* Social media icons with links */}
         <div className="flex justify-center gap-6">
           <a
             href="https://twitter.com/ReactDevsKE"
